@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Whois (s)
+Comment=ferramenta de consulta de IPs e Registros no whois da lacnic e Registro.BR
+Exec=/opt/scripts/search_whois.sh
+Icon=/home/kevin/.icon/whois_2.png
+Terminal=true
+Type=Application
+Categories=Utility;
