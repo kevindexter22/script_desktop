@@ -2,7 +2,7 @@
 Name=PDF (s)
 Comment=ferramenta de manipulação de PDF personalizado
 Exec=/opt/scripts/pdf_tool.sh
-Icon=/home/kevin/.icon/pdf.png
+Icon=/opt/.icon/pdf.png
 Terminal=true
 Type=Application
-Categories=Utility;
+Categories=Scripts;

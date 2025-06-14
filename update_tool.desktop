@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Update Tool (s)
+Name=Update (s)
 Comment=Update personaizado
 Exec=/opt/scripts/update_all.sh
-Icon=/home/kevin/.icon/Update_icon.png
+Icon=/opt/.icon/Update_icon.png
 Terminal=true
 Type=Application
-Categories=Utility;
+Categories=Scripts;
